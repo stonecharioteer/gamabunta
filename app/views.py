@@ -33,7 +33,7 @@ def login():
         flash('Login requested for OpenID="{}", remember_me={}'.format(form.openid.data, str(form.remember_me.data)))
         return redirect('/index')
     else:
-        flash("Try logging in, boss!")
+        flash("Time to log in, boss!")
 
     return render_template('login.html', title='Sign In', form=form)
 
