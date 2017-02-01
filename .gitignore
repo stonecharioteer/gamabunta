@@ -6,6 +6,7 @@ cronlog.log
 *.swp
 
 */__pycache__/
+*.cpython35-35.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
