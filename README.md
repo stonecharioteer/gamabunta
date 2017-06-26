@@ -1,2 +1,0 @@
-# gamakichimon
-gamakichimon
